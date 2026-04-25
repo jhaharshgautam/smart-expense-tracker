@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/smart-expense-tracker/static/js/main.c79fec3a.js",
+    "index.html": "/smart-expense-tracker/index.html",
+    "main.c79fec3a.js.map": "/smart-expense-tracker/static/js/main.c79fec3a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c79fec3a.js"
+  ]
+}
